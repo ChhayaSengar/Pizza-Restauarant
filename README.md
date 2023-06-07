@@ -1,8 +1,6 @@
 # Pizza-Restauarant
 
-<li>   Create a responsive and accessible web page for a restaurant, including a header with a navigation menu and social icons, 
-        a main content section with an image background, an About us section, a Menu section with multiple items, a Find Us section 
-        with a Google Maps embed and contact information, and a footer.</li>
+<li> Create a responsive and accessible web page for a restaurant, including a header with a navigation menu and social icons, a main            content section with an image background, an About us section, a Menu section with multiple items, a Find Us section  with a Google        Maps embed and contact information, and a footer.</li>
 <li> The website should work on all devices and be accessible to users with disabilities. 
 <li> To complete this task, reference the Figma design linked in the prompt. 
 <li> Use semantic HTML to structure the page and include appropriate alt tags for images to ensure accessibility.
